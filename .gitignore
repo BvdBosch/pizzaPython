@@ -1,3 +1,7 @@
+# Config file(s)
+osInt/*.ini
+!osInt/example.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
